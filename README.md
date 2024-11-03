@@ -1,1 +1,1 @@
-https://github.com/telestux/rsschool-cv/blob/gh-pages/cv.md
+https://telestux.github.io/rsschool-cv/cv
