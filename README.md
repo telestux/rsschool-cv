@@ -1,1 +1,1 @@
-# rsschool-cv
+https://telestux.github.io/rsschool-cv/cv
